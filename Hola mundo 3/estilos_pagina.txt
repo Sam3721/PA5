@@ -1,0 +1,12 @@
+body {
+	background-color: #C19898;
+	font-size: 12px;
+}
+
+
+
+.enunciado {
+	background-color: #22F4EE;
+
+}
+
